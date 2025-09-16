@@ -2,7 +2,7 @@
 
 🎓 **Cadet @ 42 Kuala Lumpur (42KL)**  
 📍 Currently training at **42 Kuala Lumpur (42KL)**  
-💻 Building skills in **C / C++**, Unix systems, Fullstack development, and graphics  
+💻 Building skills in **C / C++**, Unix systems, Fullstack development.
 
 ---
 
