@@ -1,4 +1,4 @@
-# Hi, I'm Vicky 👋
+# Short intro;
 
 🎓 **Cadet @ 42 Kuala Lumpur (42KL)**  
 📍 Currently training at **42 Kuala Lumpur (42KL)**  
