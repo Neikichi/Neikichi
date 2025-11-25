@@ -59,11 +59,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neikichi&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neikichi&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
 <!-- Optional streaks card; uncomment if you want it
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vlow-dev&theme=tokyonight" height="160"/>
