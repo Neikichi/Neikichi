@@ -1,96 +1,88 @@
-# Intro
+# 👋 Hello world!
 
-🎓 **Cadet @ 42 Kuala Lumpur (42KL)**  
-📍 Currently training at **42 Kuala Lumpur (42KL)**  
-💻 Building skills in **C / C++**, Unix systems, Fullstack development.
+🎓 Cadet at **42 Kuala Lumpur (42KL)**
+💻 I enjoy building software close to the system — from **C/C++ Unix programs** to **Java microservices** and modern **full-stack web apps**.
+
+Most of my learning comes from understanding how things really work underneath:
+processes, networking, concurrency, and how services communicate in production-style systems.
 
 ---
 
 ## ⚡ Tech Stack
 
-<p align="left"> 
-  <!-- Languages -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-
-  <!-- Web / Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-
-  <!-- Databases -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-
-  <!-- Systems & Tools -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-
-  <!-- Backend / Frameworks -->
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://quarkus.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" alt="quarkus" width="40" height="40"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
-  </a>
-</p>
+| Area            | Technologies                              |
+| --------------- | ----------------------------------------- |
+| **Languages**   | C · C++ · Python · Java                   |
+| **Frontend**    | JavaScript · TypeScript · React · Next.js |
+| **Backend**     | FastAPI · Quarkus · REST APIs             |
+| **Databases**   | PostgreSQL · SQLite                       |
+| **Systems**     | Linux · Bash · Docker · Git               |
+| **Build Tools** | Maven · CMake                             |
 
 ---
 
 ## 📌 Featured Projects
 
-- 🔹 **[Minishell](https://github.com/vlow-dev/Minishell)** — Unix-like shell in C (processes, pipes, redirections)
-- 🔹 **[Cub3D](https://github.com/vlow-dev/Cub3D)** — Raycasting 3D (MiniLibX) with textures & input events
-- 🔹 **[NinjaDB](https://github.com/FungusSpore/NinjaDB)** — AI-powered DB assistant (FastAPI · Python · PostgreSQL)
-- 🔹 **[C++ Webserver](https://github.com/FungusSpore/WebServ)** — HTTP/1.1 with CGI, Nginx-style config, epoll
+### 🐚 Minishell
+
+A **Unix-like shell in C** exploring core operating system behavior.
+
+* Process creation, execution, and signal handling
+* Pipes, redirections, and environment management
+* Command parsing and shell control flow
+
+🔗 [https://github.com/vlow-dev/Minishell](https://github.com/vlow-dev/Minishell)
 
 ---
 
-<!-- Optional streaks card; uncomment if you want it
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vlow-dev&theme=tokyonight" height="160"/>
-</p>
--->
+### 🎮 Cub3D
+
+A **ray-casting 3D engine** built with MiniLibX.
+
+* Real-time rendering and textured walls
+* Player movement and event-driven input handling
+* Graphics math and performance considerations in C
+
+🔗 [https://github.com/vlow-dev/Cub3D](https://github.com/vlow-dev/Cub3D)
+
+---
+
+### 🌐 C++ Webserver
+
+A **concurrent HTTP/1.1 server in C++** using epoll.
+
+* Non-blocking multi-client handling
+* CGI execution and configurable routing
+* Architecture inspired by real Nginx-style servers
+
+🔗 [https://github.com/FungusSpore/WebServ](https://github.com/FungusSpore/WebServ)
+
+---
+
+## 🧪 Current Focus
+
+### Full-Stack Web Platform & Java API Gateway
+
+**React · Next.js · Quarkus · WebSockets · OAuth · PostgreSQL · Docker**
+
+I’m currently building a **production-style web platform** to better understand how modern systems work end-to-end:
+
+* Developing a full web application with **users, authentication, and database persistence**
+* Implementing **OAuth login and session handling**
+* Building **real-time live chat using WebSockets**
+* Designing a **forum-style feature** for user interaction and content flow
+* Creating a **Java API gateway in Quarkus** with routing, filtering, and resilience patterns
+* Running the full stack locally through **containerized services**
+
+This project is where I’m learning how **frontend, backend, realtime communication, and infrastructure connect in real systems**.
 
 ---
 
 ## 📫 Contact
 
-✉️ **Email**: vlow.devs@gmail.com  
-🐙 **GitHub**: https://github.com/Neikichi
+✉️ **[vlow.devs@gmail.com](mailto:vlow.devs@gmail.com)**
+🐙 **[https://github.com/Neikichi](https://github.com/Neikichi)**
+
+---
+
+⭐ *Still learning, still building, and always curious about how things work beneath the surface.*
