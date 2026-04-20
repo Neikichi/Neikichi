@@ -10,14 +10,14 @@ processes, networking, concurrency, and how services communicate in production-s
 
 ## ⚡ Tech Stack
 
-| Area            | Technologies                              |
-| --------------- | ----------------------------------------- |
-| **Languages**   | C · C++ · Python · Java                   |
-| **Frontend**    | JavaScript · TypeScript · React · Next.js |
-| **Backend**     | FastAPI · Quarkus · REST APIs             |
-| **Databases**   | PostgreSQL · SQLite                       |
-| **Systems**     | Linux · Bash · Docker · Git               |
-| **Build Tools** | Maven · CMake                             |
+| Area            | Technologies                                                     |
+| --------------- | ---------------------------------------------------------------- |
+| **Languages**   | C · C++ · Python · Java · Lua                                    |
+| **Frontend**    | JavaScript · TypeScript · React · Next.js                        |
+| **Backend**     | FastAPI · Quarkus · REST APIs                                    |
+| **Databases**   | PostgreSQL · SQLite                                              |
+| **Systems**     | Linux · Bash · Docker · Git · Prometheus · Grafana               |
+| **Build Tools** | Maven · CMake                                                    |
 
 ---
 
@@ -59,22 +59,28 @@ A **concurrent HTTP/1.1 server in C++** using epoll.
 
 ---
 
-## 🧪 Current Focus
+• ## 🧪 Current Focus
 
-### Full-Stack Web Platform & Java API Gateway
+  ### Full-Stack Learning Platform & DevOps Infrastructure
 
-**React · Next.js · Quarkus · WebSockets · OAuth · PostgreSQL · Docker**
+  **Quarkus · Next.js · FastAPI · Go · PostgreSQL · Docker · Prometheus · Grafana**
 
-I’m currently building a **production-style web platform** to better understand how modern systems work end-to-end:
+  I’m currently building a **production-style full-stack platform** to deepen my understanding of how modern software systems work end-to-end.
 
-* Developing a full web application with **users, authentication, and database persistence**
-* Implementing **OAuth login and session handling**
-* Building **real-time live chat using WebSockets**
-* Designing a **forum-style feature** for user interaction and content flow
-* Creating a **Java API gateway in Quarkus** with routing, filtering, and resilience patterns
-* Running the full stack locally through **containerized services**
+  ### What I’m Building
 
-This project is where I’m learning how **frontend, backend, realtime communication, and infrastructure connect in real systems**.
+  - A **Quarkus API gateway** for routing, filtering, rate limiting, fault tolerance, observability, and SSE
+  - A **zero-trust microservices architecture** with mTLS, JWT authentication, and RBAC
+  - Core **auth, forum, and chat workflows** across Quarkus, Next.js, FastAPI, and Go services
+  - **Hybrid SSR/CSR flows** in Next.js for API-driven platform features
+  - A containerized stack with **Docker Compose**, health checks, and TLS-secured service communication
+  - Observability and resilience tooling with **Prometheus, Grafana, backups, and disaster-recovery documentation**
+
+  ### Why I’m Doing It
+
+  This project is where I’m learning how **backend systems, frontend applications, real-time communication, security, and infrastructure** come together in real production-style
+  environments.
+
 
 ---
 
@@ -82,6 +88,7 @@ This project is where I’m learning how **frontend, backend, realtime communica
 
 ✉️ **[vlow.devs@gmail.com](mailto:vlow.devs@gmail.com)**
 🐙 **[https://github.com/Neikichi](https://github.com/Neikichi)**
+💼 **[LinkedIn](https://www.linkedin.com/in/vickylow)**
 
 ---
 
