@@ -4,7 +4,7 @@
 ![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Java-111827?style=flat&labelColor=0b1220)
 ![Stack](https://img.shields.io/badge/Stack-Quarkus%20%7C%20Next.js%20%7C%20FastAPI%20%7C%20PostgreSQL-111827?style=flat&labelColor=0b1220)
 
-🎓 **Computer Science Cadet at 42 Kuala Lumpur (42KL)**.
+🎓 **Computer Science Cadet at 42 Kuala Lumpur (42KL)**.  
 💻 Specialized in **Systems Programming** and **High-Performance Backend Architectures**.
 
 Most of my learning comes from understanding how things really work underneath: processes, networking, concurrency, and how services communicate in production-style systems. I enjoy the complexity of **concurrency and networking**—building software that is as fast as it is stable.
