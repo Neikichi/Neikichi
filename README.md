@@ -1,90 +1,65 @@
-# 👋 Hello world!
+# 👋 Hi, I'm Vicky.
 
 ![42KL](https://img.shields.io/badge/42%20Kuala%20Lumpur-Cadet-111827?style=flat&labelColor=0b1220)
-![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Java%20%7C%20Lua-111827?style=flat&labelColor=0b1220)
+![Languages](https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Java-111827?style=flat&labelColor=0b1220)
 ![Stack](https://img.shields.io/badge/Stack-Quarkus%20%7C%20Next.js%20%7C%20FastAPI%20%7C%20PostgreSQL-111827?style=flat&labelColor=0b1220)
 
-🎓 Cadet at **42 Kuala Lumpur (42KL)**  
-💻 I enjoy building software close to the system — from **C/C++ Unix programs** to **Java microservices** and modern **full-stack web apps**.
+🎓 **Computer Science Cadet at 42 Kuala Lumpur (42KL)**.
+💻 Specialized in **Systems Programming** and **High-Performance Backend Architectures**.
 
-Most of my learning comes from understanding how things really work underneath: processes, networking, concurrency, and how services communicate in production-style systems.
-
----
-
-## ⚡ Tech Stack
-
-| Area            | Technologies                                                     |
-| --------------- | ---------------------------------------------------------------- |
-| **Languages**   | C · C++ · Python · Java · Lua                                    |
-| **Frontend**    | JavaScript · TypeScript · React · Next.js                        |
-| **Backend**     | FastAPI · Quarkus · REST APIs                                    |
-| **Databases**   | PostgreSQL · SQLite                                              |
-| **Systems**     | Linux · Bash · Docker · Git · Prometheus · Grafana               |
-| **Build Tools** | Maven · CMake                                                    |
+Most of my learning comes from understanding how things really work underneath: processes, networking, concurrency, and how services communicate in production-style systems. I enjoy the complexity of **concurrency and networking**—building software that is as fast as it is stable.
 
 ---
 
-## 📌 Featured Projects
+## ⚡ Technical Skills
 
-### 🐚 Minishell
-A **Unix-like shell in C** exploring core operating system behavior.
-
-- Process creation, execution, and signal handling
-- Pipes, redirections, and environment management
-- Command parsing and shell control flow
-
-🔗 **Repo:** [vlow-dev/Minishell](https://github.com/vlow-dev/Minishell)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | **Proficient:** C · C++ · Java · Python <br> **Scripting:** TypeScript · JavaScript · Lua · Bash |
+| **Backend & Systems**| Quarkus · FastAPI · REST APIs · Linux/Unix · Concurrency · Network Sockets |
+| **Web & Full-Stack** | Next.js · React · WebSockets · PostgreSQL · JWT · mTLS · RBAC |
+| **DevOps & Reliability**| Docker Compose · Prometheus · Grafana · CI/CD · Disaster Recovery |
 
 ---
 
-### 🎮 Cub3D
-A **ray-casting 3D engine** built with MiniLibX.
+## 🚀 Featured Project: 42 Overflow (ft_transcendence)
+*A production-style microservices platform built for high reliability and security.*
 
-- Real-time rendering and textured walls
-- Player movement and event-driven input handling
-- Graphics math and performance considerations in C
+**Key Engineering & DevOps Contributions:**
+- **High-Performance Gateway:** Built a **Quarkus-based API gateway** handling dynamic routing, policy enforcement, rate limiting, fault tolerance and observability metrics.
+- **Security Architecture:** Engineered a **zero-trust microservices model** utilizing **mTLS**, **JWT authentication**, and RBAC.
+- **DevOps & Infrastructure:** Containerized the multi-service stack with **Docker Compose**, implementing health checks and TLS-secured service communication.
+- **Resilience & Observability:** Integrated **Prometheus** and **Grafana** for monitoring; implemented **automated backups** and **disaster-recovery documentation**.
 
-🔗 **Repo:** [vlow-dev/Cub3D](https://github.com/vlow-dev/Cub3D)
-
----
-
-### 🌐 C++ Webserver
-A **concurrent HTTP/1.1 server in C++** using `epoll`.
-
-- Non-blocking multi-client handling
-- CGI execution and configurable routing
-- Architecture inspired by real Nginx-style servers
-
-🔗 **Repo:** [FungusSpore/WebServ](https://github.com/FungusSpore/WebServ)
+🔗 **Repo:** [colin-woon/7.0_ft_transcendence](https://github.com/colin-woon/7.0_ft_transcendence)
 
 ---
 
-## 🧪 Current Focus
+## 🐚 Systems Engineering (42KL Core)
 
-### Full-Stack Learning Platform & DevOps Infrastructure
-**Quarkus · Next.js · FastAPI · Go · PostgreSQL · Docker · Prometheus · Grafana**
+### C++ Webserver
+A concurrent HTTP/1.1 server using **epoll** for non-blocking multi-client handling. Features CGI execution and modular Nginx-style configuration.
+🔗 **Repo:** [WebServ](https://github.com/FungusSpore/WebServ)
 
-I’m building a **production-style full-stack platform** to deepen my understanding of how modern software systems work end-to-end.
+### Minishell
+A Unix-like shell developed in **C** exploring process execution, pipes, and signal handling.
+🔗 **Repo:** [Minishell](https://github.com/Neikichi/Minishell)
 
-#### What I’m Building
-- A **Quarkus API gateway** for routing, filtering, rate limiting, fault tolerance, observability, and SSE
-- A **zero-trust microservices architecture** with mTLS, JWT authentication, and RBAC
-- Core **auth, forum, and chat workflows** across Quarkus, Next.js, FastAPI, and Go services
-- **Hybrid SSR/CSR flows** in Next.js for API-driven platform features
-- A containerized stack with **Docker Compose**, health checks, and TLS-secured service communication
-- Observability and resilience tooling with **Prometheus, Grafana, backups, and disaster-recovery documentation**
-
-#### Why I’m Doing It
-This project is where I’m learning how **backend systems, frontend applications, real-time communication, security, and infrastructure** come together in real production-style environments.
+### Cub3D
+A ray-casting 3D engine built with MiniLibX, focusing on real-time rendering and graphics math in C.
+🔗 **Repo:** [Cub3D](https://github.com/Neikichi/Cub3D)
 
 ---
+
+## 🏆 Achievements
+- **AmBank HackLab (2026): Finalist** | [WingManAI](https://github.com/Neikichi/WingManAI)
+- **AmBank HackLab (2025): 1st Runner-Up** | [NinjaDB](https://github.com/FungusSpore/NinjaDB)
+- **CompTIA ITF+ (2025):** Certified.
 
 ## 📫 Contact
-
 - ✉️ **Email:** [vlow.devs@gmail.com](mailto:vlow.devs@gmail.com)
 - 🐙 **GitHub:** [Neikichi](https://github.com/Neikichi)
 - 💼 **LinkedIn:** [vickylow](https://www.linkedin.com/in/vickylow)
 
 ---
-
 ⭐ *Still learning, still building, and always curious about how things work beneath the surface.*
